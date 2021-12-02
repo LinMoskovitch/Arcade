@@ -15,9 +15,13 @@ __Creaters:__
     Chess, Checkers and Amazons (PVP).
 ___
 ## Functions of the arcade
-    + The user can choose which game they'd like to run, and a new game can be created, while saving the progress of the last game played (no limit of running games in the background).
-    + Each game can be played until one of the players wins the game (or loses, in some cases), and the finished game will be saved in the list of running games, or be deleted, for user's choice.
-    + If the player is not satisfied of their current game, it can be deleted, and the arcade will load the next game the user created (if existed).
+    + The user can choose which game they'd like to run, and a new game can be created,
+      while saving the progress of the last game played
+      (no limit of running games in the background).
+    + Each game can be played until one of the players wins the game (or loses, in some cases),
+      and the finished game will be saved in the list of running games, or be deleted, for user's choice.
+    + If the player is not satisfied of their current game, it can be deleted,
+      and the arcade will load the next game the user created (if existed).
     + The user can choose to save their current game in a file, and load it when necessary.
 
 ## Arcade Options List
