@@ -16,12 +16,12 @@ __Creaters:__
 ___
 ## Functions of the arcade
     1. The user can choose which game they'd like to run, and a new game can be created,
-      while saving the progress of the last game played
-      (no limit of running games in the background).
+       while saving the progress of the last game played
+       (no limit of running games in the background).
     2. Each game can be played until one of the players wins the game (or loses, in some cases),
-      and the finished game will be saved in the list of running games, or be deleted, for user's choice.
+       and the finished game will be saved in the list of running games, or be deleted, for user's choice.
     3. If the player is not satisfied of their current game, it can be deleted,
-      and the arcade will load the next game the user created (if existed).
+       and the arcade will load the next game the user created (if existed).
     4. The user can choose to save their current game in a file, and load it when necessary.
 
 ## Arcade Options List
