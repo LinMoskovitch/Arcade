@@ -10,7 +10,7 @@ __Creaters:__
 # Arcade Project
 
 ## Description of the project
-    This project made as part of Oriented Objects Programming in C++ 
+    This project was made as a part of Object Oriented Programming in C++ 
     course, taken on summer semester in 2021.
     In this project, I've created an arcade, which contains 3 games: 
     Chess, Checkers and Amazons (PVP).
